@@ -2,12 +2,19 @@
 
 This repository contains a collection of PDF notes and resources for computer science concepts, algorithm preparation, and interview readiness which I used for intern prep. Hope that these become useful for placement prep(algos + cpp) as well.
 
+BTW, I don't think this repo will be that helpful for Quant prep, as it is mostly for Data science/software prep.
+
 **I used C++ as the reference programming language..**
+
+**Note for Internship prep**: For internship prep, you don't have to do all of these. DSA, your preferred programming language(conceptual understanding of pyhton/C++/Java/...), some trick questions(in Trick questions.pdf, like do this question in O(1) space or similar, obv for interviews), basics of ML, lil bit of SQL(sometimes asked in OA and interviews). Knowing these is sufficient. Just do leetcode and don't forget CSES standard questions(for OAs). Doing codeforces is not a necessity, but is always better(prioritize CSES over Codeforces). And please, work on your conversation skills, all.
+
 
 ## 📚 Contents
 
 - **Cpp prep.pdf**: C++ programming preparation notes.
+- **Agentic AI**: About basics/fundamentals to some adv stuff.
 - **SQL Notes.pdf**: SQL basics for OAs and intervews.
+- **Computer Networks.pdf**: Fundamentals on networks.
 - **CS Fundamentals**: For fundamental understanding of Comp Arch, OS, etc..
 - **DSA-CLRS notes.pdf**: Notes based on the classic *Introduction to Algorithms* (CLRS) book.
 - **Leetcode common questions.pdf**: A curated list of common LeetCode problems.
